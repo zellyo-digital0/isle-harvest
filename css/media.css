@@ -1,0 +1,145 @@
+@media(max-width:1199px) {
+    .info {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .info_box {
+        padding-bottom: 0;
+    }
+
+}
+
+@media(max-width:767px) {
+    h1 {
+        font-size: 40px;
+        letter-spacing: 0;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
+    .cp60 {
+        padding: 30px 10px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 0;
+    }
+
+    /* .hero {
+        background-size: auto;
+    } */
+
+    .hero_textbox {
+        padding-left: 0;
+    }
+
+    .hero_text {
+        padding-left: 20px;
+    }
+
+    .about_content p {
+        width: 100%;
+    }
+
+    .custom-shape-divider-bottom-1707214183 svg {
+        width: auto;
+    }
+
+    .info_sec {
+        padding-top: 80px;
+    }
+
+    .info {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .info_box {
+        padding-bottom: 0;
+    }
+
+}
+
+@media(max-width:575px) {
+    h1 {
+        font-size: 40px;
+        letter-spacing: 0;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
+    .cp60 {
+        padding: 30px 10px;
+    }
+
+    .nav-link {
+        text-align: center;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 0;
+    }
+
+    .hero_content {
+        text-align: center;
+    }
+
+    .hero_text {
+        padding: 0;
+    }
+
+    .hero_text h2 {
+        padding: 10px 0px;
+    }
+
+    .hero_image {
+        margin-top: 30px;
+    }
+
+    .custom-shape-divider-bottom-1707214183 svg {
+        width: auto;
+    }
+
+
+    .about_content p {
+        width: 100%;
+    }
+
+
+    .contact {
+        background-size: auto;
+    }
+
+    .info {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .info_box {
+        padding-bottom: 0;
+    }
+
+
+    .social_icon ul li {
+        width: 50px;
+        height: 50px;
+        border-radius: 10px;
+    }
+
+    .social_icon ul li a i {
+        font-size: 20px;
+    }
+}
